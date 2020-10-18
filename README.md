@@ -9,7 +9,16 @@
 
 ## Assignments Overview
 
-Assignment | Description | Link 
+
+Discussion Assignment | Description | Link 
+--- | --- | ---
+Discussion Assignment 1 | |
+Assignment 2 | | 
+Assignment 3 | |
+
+
+
+Final Assignment | Description | Link 
 --- | --- | ---
 Assignment 1 | |
 Assignment 2 | | 
